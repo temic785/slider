@@ -1,28 +1,15 @@
 .slider {
-    width: 50%;
-    margin: 0 auto;
-    text-align: center;
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
 }
 
 img {
-    width: 400px;
-    height: 400px;
+  width: 400px;
+  height: 400px;
 }
-.slider button{
-    border: 1px solid;
-    width: 60px;
-    height: 60px;
+.slider button {
+  border: 1px solid;
+  width: 60px;
+  height: 60px;
 }
-
-.question{
-    font-size: 40px;
-    color: green;
-    padding: 20px;
-    text-align: center;
-}
-/*.slider_dasha{
-    font-size: 100px;
-    
-    background-color: #FDD9B5;
-
-}*/
